@@ -157,3 +157,5 @@ virtual-dom is heavily inspired by the inner workings of React by facebook. This
 [6]: https://coveralls.io/r/Matt-Esch/virtual-dom
 [7]: https://david-dm.org/Matt-Esch/virtual-dom.svg
 [8]: https://david-dm.org/Matt-Esch/virtual-dom
+
+just test pr
